@@ -1,36 +1,136 @@
-- en: 'Vivi'
-  id: 1312
-- en: 'With Vivi´s help, use
+- id: 1312
+  en: Vivi
+  sp: Vivi
+  fr: Vivi
+  gr: Vivi
+  it: Vivi
+- id: 13043
+  en: Vivi-Fire
+  sp: Vivi-Fire
+  fr: Vivi-Fire
+  gr: Vivi-Feuer
+  it: Vivi-Fire
+- id: 13045
+  en: Vivi-Ice
+  sp: Vivi-Ice
+  fr: Vivi-Ice
+  gr: Vivi-Eis
+  it: Vivi-Ice
+- id: 13047
+  en: Vivi-Thunder
+  sp: Vivi-Thunder
+  fr: Vivi-Thunder
+  gr: Vivi-Blitz
+  it: Vivi-Thunder
+- id: 13049
+  en: Vivi-Cure
+  sp: Vivi-Cure
+  fr: Vivi-Cure
+  gr: Vivi-Vita
+  it: Vivi-Cure
+- id: 14629
+  en: Vivi Flare
+- id: 14630
+  en: 'MegaVivi Flare'
+  sp: 'MegaVivi Flare'
+  fr: 'MegaVivi Flare'
+  gr: 'MegaVivi Flare'
+  it: 'MegaVivi Flare'
+- id: 1605
+  en: 'With Vivi´s help, use
 the Drive Command
 
  to change into Wisdom Form.'
-  id: 1605
-- en: 'Vivi Fire'
-  id: 13043
-- en: 'Vivi Blizzard '
-  id: 13045
-- en: 'Vivi Thunder '
-  id: 13047
-- en: 'Vivi Cure '
-  id: 13049
-- en: 'A Limit Command that unleashes Vivi´s 
+
+  sp: 'With Vivi´s help, use
+the Drive Command
+
+ to change into Wisdom Form.'
+
+  fr: 'With Vivi´s help, use
+the Drive Command
+
+ to change into Wisdom Form.'
+
+  gr: 'With Vivi´s help, use
+the Drive Command
+
+ to change into Wisdom Form.'
+
+  it: 'With Vivi´s help, use
+the Drive Command
+
+ to change into Wisdom Form.'
+- id: 13112
+  en: 'A Limit Command that unleashes Vivi´s 
 
 powerful Comet spell.
 
 Consumes all of Your MP. '
-  id: 13112
-- en: 'A Limit Command that unleashes
+  sp: 'A Limit Command that unleashes Vivi´s 
+
+powerful Comet spell.
+
+Consumes all of Your MP. '
+  fr: 'A Limit Command that unleashes Vivi´s 
+
+powerful Comet spell.
+
+Consumes all of Your MP. '
+  gr: 'A Limit Command that unleashes Vivi´s 
+
+powerful Comet spell.
+
+Consumes all of Your MP. '
+  it: 'A Limit Command that unleashes Vivi´s 
+
+powerful Comet spell.
+
+Consumes all of Your MP. '
+- id: 13114
+  en: 'A Limit Command that unleashes
 the Mage´s 
 
 powerful Flare spell.
 
 Consumes all of Your MP.'
-  id: 13114
-- en: 'Vivi Flare'
-  id: 14629
-- en: 'MegaVivi Flare'
-  id: 14630
-- en: 'With Vivi´s help, use
+  sp: 'A Limit Command that unleashes
+the Mage´s 
+
+powerful Flare spell.
+
+Consumes all of Your MP.'
+  fr: 'A Limit Command that unleashes
+the Mage´s 
+
+powerful Flare spell.
+
+Consumes all of Your MP.'
+  gr: 'A Limit Command that unleashes
+the Mage´s 
+
+powerful Flare spell.
+
+Consumes all of Your MP.'
+  it: 'A Limit Command that unleashes
+the Mage´s 
+
+powerful Flare spell.
+
+Consumes all of Your MP.'
+- id: 1605
+  en: 'With Vivi´s help, use
 the Drive Command to change
 into Wisdom Form.'
-  id: 1605
+  sp: 'With Vivi´s help, use
+the Drive Command to change
+into Wisdom Form.'
+  fr: 'With Vivi´s help, use
+the Drive Command to change
+into Wisdom Form.'
+  gr: 'With Vivi´s help, use
+the Drive Command to change
+into Wisdom Form.'
+  it: 'With Vivi´s help, use
+the Drive Command to change
+into Wisdom Form.'
