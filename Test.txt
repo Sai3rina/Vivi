@@ -1,0 +1,76 @@
+- name: obj\N_EX610_BTL.mdlx
+  method: copy
+  source:
+  - name: obj\N_EX610_BTL.mdlx
+- name: obj\N_EX610_BTL2.mdlx
+  method: copy
+  source:
+  - name: obj\N_EX610_BTL2.mdlx
+- name: obj\N_EX610_RAW_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\N_EX610_RAW_RTN.mdlx
+- name: obj\N_EX610_RTN.mdlx
+  method: copy
+  source:
+  - name: obj\N_EX610_RTN.mdlx
+- name: remastered\obj\N_EX610_BTL.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL.mdlx\-0.dds
+- name: remastered\obj\N_EX610_BTL.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL.mdlx\-1.dds
+- name: remastered\obj\N_EX610_BTL.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL.mdlx\-2.dds
+- name: remastered\obj\N_EX610_BTL2.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL2.mdlx\-0.dds
+- name: remastered\obj\N_EX610_BTL2.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL2.mdlx\-1.dds
+- name: remastered\obj\N_EX610_BTL2.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL2.mdlx\-2.dds
+- name: remastered\obj\N_EX610_RAW_RTN.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_RAW_RTN.mdlx\-0.dds
+- name: remastered\obj\N_EX610_RAW_RTN.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_RAW_RTN.mdlx\-1.dds
+- name: remastered\obj\N_EX610_RAW_RTN.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_RAW_RTN.mdlx\-2.dds
+- name: remastered\obj\N_EX610_RTN.mdlx\-0.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_RTN.mdlx\-0.dds
+- name: remastered\obj\N_EX610_RTN.mdlx\-1.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_RTN.mdlx\-1.dds
+- name: remastered\obj\N_EX610_RTN.mdlx\-2.dds
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_RTN.mdlx\-2.dds
+- name: Voice\us\battle\dusk_vivi.scd
+  method: copy
+  source:
+  - name: Voice\us\battle\dusk_vivi.scd
+- name: remastered\obj\N_EX610_BTL.a.us\voice\battle\us\dusk_vivi
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL.a.us\voice\battle\us\dusk_vivi
+- name: remastered\obj\N_EX610_BTL2.a.us\voice\battle\us\dusk_vivi2
+  method: copy
+  source:
+  - name: remastered\obj\N_EX610_BTL2.a.us\voice\battle\us\dusk_vivi2
